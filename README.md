@@ -1,0 +1,1 @@
+# THEME-KBC-firearms-core
